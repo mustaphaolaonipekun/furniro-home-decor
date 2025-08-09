@@ -26,12 +26,12 @@
 
 header {
   background: var(--white);
-  max-width: var(--max-width);
+/*   max-width: var(--max-width); */
   height: 100px;
 }
 
 .head {
-  max-width: 1286px;
+/*   max-width: 1286px; */
   display: flex;
   justify-content: space-between;
   margin-top: 29px;
@@ -93,7 +93,7 @@ a {
 
 section {
   opacity: 1;
-  max-width: var(--max-width);
+/*   max-width: var(--max-width); */
   padding: 1px;
   background-image: url(images/scandinavian-interior-mockup-wall-decal-background\ 1.png);
 }
@@ -162,7 +162,7 @@ section {
 }
 article {
   margin-top: 56.47px;
-  max-width: 1183px;
+/*   max-width: 1183px; */
   
 }
 .center1 {
@@ -216,7 +216,7 @@ article p {
 
 aside {
   margin-top: 56px;
-  max-width: 1236px;
+/*   max-width: 1236px; */
 
   margin-bottom: 69px;
 }
@@ -448,7 +448,7 @@ aside h5 {
 summary {
   background-color: #fcf8f3;
   margin-top: 69px;
-  max-width: 1760px;
+/*   max-width: 1760px; */
 
 }
 .center3 {
@@ -562,7 +562,7 @@ summary {
 main {
   margin-top: 67px;
  
-  max-width: 1799px;
+/*   max-width: 1799px; */
 
 
 
@@ -666,7 +666,7 @@ main h5 {
   height: 196;
 }
 footer {
-  max-width: 1440px;
+/*   max-width: 1440px; */
   
   border-top: 1px solid #0000002b;
   margin-top: 50px;
